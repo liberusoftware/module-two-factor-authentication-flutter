@@ -1,0 +1,25 @@
+{
+  "repository": "module-two-factor-authentication-flutter",
+  "capabilityKey": "liberusoftware/two-factor-authentication",
+  "presentation": "mobile-flutter",
+  "package": "module_two_factor_authentication_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/two-factor-authentication.md",
+  "presentationPlan": "projects/boilerplate/flutter/two-factor-authentication.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
